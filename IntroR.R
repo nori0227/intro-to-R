@@ -376,3 +376,7 @@ names(random)
 
 names(random) <- c("metadata")
 names(random)
+
+
+IntroR.R
+/Users/nuri/HHA-507-2022/intro-to-R/IntroR.R
